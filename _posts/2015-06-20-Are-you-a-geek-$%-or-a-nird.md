@@ -1,9 +1,7 @@
 ---
 title: Are you a geek or a nird?
 date: 2015-06-20 12:45:23
-excerpt: SThink you're a geek? Then you'd probably be offended if someone called you a nerd. Got nerd-pride? Then you probably look at geek culture as nothing more than glorified hipsterism. Think there isn't a real difference between the two?
-
-<br />
+excerpt: Think you're a geek? Then you'd probably be offended if someone called you a nerd. Got nerd-pride? Then you probably look at geek culture as nothing more than glorified hipsterism. Think there isn't a real difference between the two?<br />
 image: geek.jpg
 ---
 Think you're a geek? Then you'd probably be offended if someone called you a nerd. Got nerd-pride? Then you probably look at geek culture as nothing more than glorified hipsterism. Think there isn't a real difference between the two?
